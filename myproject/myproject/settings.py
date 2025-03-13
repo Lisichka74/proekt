@@ -42,8 +42,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'myapp',
     'rest_framework',
-    'flights',
     'django_filters',
+    'flights'
 ]
 
 MIDDLEWARE = [
